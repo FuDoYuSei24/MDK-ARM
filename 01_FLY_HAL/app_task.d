@@ -44,5 +44,3 @@
 01_fly_hal\app_task.o: ..\Mid\FreeRTOS\include\semphr.h
 01_fly_hal\app_task.o: ..\Inf\power\Inf_IP5305T.h
 01_fly_hal\app_task.o: ../Core/Inc/gpio.h
-01_fly_hal\app_task.o: ..\Inf\led\Inf_LED.h
-01_fly_hal\app_task.o: ..\Common\config\Com_Config.h

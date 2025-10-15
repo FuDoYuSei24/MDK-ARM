@@ -21,7 +21,8 @@
                 "D:\\Keil5\\ARM\\ARMCC\\include\\rw",
                 "d:\\学习资料\\四轴无人机\\01_FLY_HAL\\Core\\Src",
                 "d:\\学习资料\\四轴无人机\\01_FLY_HAL\\Drivers\\STM32F1xx_HAL_Driver\\Src",
-                "d:\\学习资料\\四轴无人机\\01_FLY_HAL\\Mid\\FreeRTOS\\protable\\MemMang"
+                "d:\\学习资料\\四轴无人机\\01_FLY_HAL\\Mid\\FreeRTOS\\protable\\MemMang",
+                "d:\\学习资料\\四轴无人机\\01_FLY_HAL\\MDK-ARM"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
