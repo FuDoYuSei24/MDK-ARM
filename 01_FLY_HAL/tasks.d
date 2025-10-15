@@ -1,0 +1,17 @@
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\source\tasks.c
+01_fly_hal\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+01_fly_hal\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\include\FreeRTOS.h
+01_fly_hal\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+01_fly_hal\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\FreeRTOSConfig.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\include\projdefs.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\include\portable.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\include\deprecated_definitions.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\protable\ARM_CM3\portmacro.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\include\mpu_wrappers.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\include\task.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\include\list.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\include\timers.h
+01_fly_hal\tasks.o: ..\Mid\FreeRTOS\include\stack_macros.h
+01_fly_hal\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
