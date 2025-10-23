@@ -1,6 +1,6 @@
 01_fly_hal\inf_led.o: ..\Inf\led\Inf_LED.c
 01_fly_hal\inf_led.o: ..\Inf\led\Inf_LED.h
-01_fly_hal\inf_led.o: ..\Common\debug\Com_Debug.h
+01_fly_hal\inf_led.o: ../Common/debug/Com_Debug.h
 01_fly_hal\inf_led.o: ../Core/Inc/usart.h
 01_fly_hal\inf_led.o: ../Core/Inc/main.h
 01_fly_hal\inf_led.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
@@ -28,8 +28,11 @@
 01_fly_hal\inf_led.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 01_fly_hal\inf_led.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 01_fly_hal\inf_led.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+01_fly_hal\inf_led.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+01_fly_hal\inf_led.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+01_fly_hal\inf_led.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 01_fly_hal\inf_led.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 01_fly_hal\inf_led.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
 01_fly_hal\inf_led.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 01_fly_hal\inf_led.o: ../Core/Inc/gpio.h
-01_fly_hal\inf_led.o: ..\Common\config\Com_Config.h
+01_fly_hal\inf_led.o: ../Common/config/Com_Config.h
